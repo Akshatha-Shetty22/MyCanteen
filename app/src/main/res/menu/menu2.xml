@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/id1"
+        android:title="Account" />
+    <item
+        android:id="@+id/id2"
+        android:title="Cart"
+        />
+    <item
+        android:id="@+id/id3"
+        android:title="Logout" />
+    <item
+        android:id="@+id/id4"
+        android:title="Developers" />
+</menu>
